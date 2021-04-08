@@ -1,4 +1,4 @@
-# avsc json sample
+# avsc json sample [![Node.js CI](https://github.com/javro/avsc-json-sample/actions/workflows/ci.yml/badge.svg)](https://github.com/javro/avsc-json-sample/actions/workflows/ci.yml)
 
 This lib allows you to generate sample json documents from an Apache Avro schema.
 
